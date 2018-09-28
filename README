@@ -1,0 +1,5 @@
+JAGS rescorlaWagner module
+==================
+
+The JAGS rescorlaWagner module is an extension for JAGS that implements the
+Rescorla-Wagner model applied to the two-choice bandit problem.
